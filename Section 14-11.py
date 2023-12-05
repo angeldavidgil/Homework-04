@@ -1,3 +1,9 @@
+'''
+Student Name: Angel Gil
+Class : CIS 2348-12535
+Student ID : 2255154
+'''
+
 def selection_sort_descend_trace(numbers):
     count = 0
     # To make sure, the list is not printing incorrectly. .

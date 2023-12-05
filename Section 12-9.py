@@ -1,6 +1,6 @@
 '''
 Student Name: Angel Gil
-Class : CIS 2348
+Class : CIS 2348-12535
 Student ID : 2255154
 '''
 

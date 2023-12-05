@@ -1,3 +1,8 @@
+'''
+Student Name: Angel Gil
+Class : CIS 2348
+Student ID : 2255154
+'''
 
 # Split input into 2 parts: name and age
 parts = input().split()

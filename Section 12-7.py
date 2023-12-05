@@ -1,3 +1,9 @@
+'''
+Student Name: Angel Gil
+Class : CIS 2348
+Student ID : 2255154
+'''
+
 def get_age():
     try:
         age = int(input())
